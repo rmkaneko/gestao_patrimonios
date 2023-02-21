@@ -1,0 +1,6 @@
+*.venv
+*.myvenv
+*.idea
+*.sqlite3
+*pyc
+media
